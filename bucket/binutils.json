@@ -4,8 +4,8 @@
     "homepage": "https://www.gnu.org/software/binutils/",
     "license": "GPL-3.0-or-later",
     "url": [
-        "https://downloads.sourceforge.net/project/ezwinports/binutils-2.43-w32-bin.zip",
-        "https://mirrors.gigenet.com/OSDN//mingw/72215/libgcc-9.2.0-3-mingw32-dll-1.tar.xz"
+        "https://mirrors.gigenet.com/OSDN//mingw/72215/libgcc-9.2.0-3-mingw32-dll-1.tar.xz",
+        "https://downloads.sourceforge.net/project/ezwinports/binutils-2.43-w32-bin.zip"
     ],
     "hash": [
         "sha1:b9dbee341888c5917763ed4689dd6bb669c9b305",
