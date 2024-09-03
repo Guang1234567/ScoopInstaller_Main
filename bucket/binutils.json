@@ -4,7 +4,7 @@
     "homepage": "https://www.gnu.org/software/binutils/",
     "license": "GPL-3.0-or-later",
     "url": [
-        "https://ftp.gnu.org/gnu/binutils/binutils-2.43.1.tar.gz"
+        "http://127.0.0.1:8000/binutils-2.43-w32-bin.zip"
     ],
     "hash": [
         "sha1:b9dbee341888c5917763ed4689dd6bb669c9b305",
